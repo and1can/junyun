@@ -1,0 +1,12 @@
+{
+  "name": "uber_interval",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "pg": "^6.0.1"
+  },
+  "description": "sql table for event transitions",
+  "devDependencies": {},
+  "author": "Andy Chu",
+  "license": "ISC"
+}
